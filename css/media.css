@@ -1,0 +1,138 @@
+@media(max-width: 1200px){
+    .mask_group{
+        width: 560px;
+        height: 460px;
+    }
+    .proparity{
+        /* text-align: center; */
+        padding-left: 0rem;
+        padding-right: 0rem;
+        text-align: left;
+        padding-top: 3rem;
+    }
+    .alter{
+        text-align: left;
+    }
+    .twitter{
+        padding-bottom: 1rem;
+    }
+    .categories{
+        padding-bottom: 1rem;
+    }
+    .logo-footer{
+        font-size: 18px;   font-family: Poppins-Medium;
+        padding-left: 0rem;
+        letter-spacing: 5px;
+    
+    }
+    .images-people{
+        display: block;
+    }
+    .side-home{
+        display: none;
+    }
+    .yes-duv{
+width: 100%;
+    }
+    .imges{
+        width: 400px;
+    }
+    .saly-png{
+        width: 400px;
+    }
+    .resize{
+        width: 400px;
+        height: 500px;
+    }
+    .continue-statistics{
+        display: block;
+    }
+    .slids-mai{
+        width: 100%;
+    }
+    .nav-none{
+        visibility: visible;
+        display: block;
+    }
+}
+@media(max-width: 800px){
+    .deploma{
+        display: flex;
+        justify-content: space-between;
+    }
+    .deplome-img{
+        width: 6rem;
+        
+    }
+    .statistics{
+        display: block;
+    }
+    .video-svg{
+        width: 15rem;
+    }
+    .vv{
+        display: block;
+    }
+    .videoa{
+        width: 27rem;
+    }
+  
+    .imges{
+        width: 300px;
+    }
+    .saly-png{
+        width: 300px;
+    }
+    .resize{
+        width: 300px;
+        height: 200px;
+    }
+    .mask_group{
+        width: 360px;
+        height: 260px;
+    }
+    .bar-graphs{
+        display: block;
+    }
+    .rows{
+        display: block;
+        width: 100%;
+
+    }
+    .mao{
+        width: 30rem;
+        height: 25rem;
+    }
+    .videoa{
+        width: 30rem;
+        height: 25rem;
+    }
+    
+    .cours-nav{
+        display: block;
+       
+    }
+    .continue-statistics{
+        display: block;
+    }
+    .slids-mai{
+        width: 100%;
+    }
+}
+@media(max-width: 300px){
+    .dash{
+width: 7;
+    }
+    .bar1{
+      display: block;
+}
+.slids-mai{
+    width: 100%;
+}
+.imgo{
+    width: 15rem;
+}
+.video-svg{
+    width: 5rem;
+}
+}
